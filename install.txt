@@ -1,0 +1,3 @@
+conda create -n 2dto3d python=3.8
+conda activate 2dto3d
+pip install -r requirements.txt
